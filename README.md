@@ -1,5 +1,7 @@
 # Remote Job Salary Explorer
 
+![Dashboard Screenshot](./reports/screenshot_streamlit.png)
+
 **Description:**  
 This Streamlit app analyzes remote job listings scraped from RemoteOK.  
 It lets you filter jobs by salary range and company, and see salary distributions and top roles.
@@ -11,6 +13,3 @@ It lets you filter jobs by salary range and company, and see salary distribution
 - Deployed on Streamlit Cloud
 
 **Live Demo:** https://liam-48-remote-work-trends-app-trjalp.streamlit.app/
-
----
-*Built by Liam Gorocica.*
